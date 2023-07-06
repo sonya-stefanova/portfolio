@@ -9,6 +9,12 @@
   </tr>
   <tr>
     <td>Python Web Basics</td>
+    <td>Project preparation in progress</td>
+    <td>Not Yet</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Python Web Basics</td>
     <td><a href="https://softuni.bg/certificates/certificates/converttoimage/177803?code=7aaf7677">Certificate</a></td>
     <td>6.00</td>
     <td>2023</td>

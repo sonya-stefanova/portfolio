@@ -8,7 +8,7 @@
     <th>Year</th>
   </tr>
   <tr>
-    <td>Python Web Basics</td>
+    <td>Python Web Framework</td>
     <td>Project preparation in progress</td>
     <td>Not Yet</td>
     <td>2023</td>

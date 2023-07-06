@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td>Python Web Basics</td>
-    <td>Expected</td>
-    <td>Expected</td>
+    <td><a href="[https://softuni.bg/certificates/details/177803/7aaf7677](https://softuni.bg//Content/images/certificates/logo-white.svg)">Certificate</a></td>
+    <td>6.00</td>
     <td>2023</td>
   </tr>
   <tr>

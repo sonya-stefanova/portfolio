@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td>Python Web Framework</td>
-    <td>Project preparation in progress</td>
-    <td>Not Yet</td>
+        <td><a href="[https://softuni.bg/certificates/certificates/converttoimage/177803?code=7aaf7677](https://github.com/sonya-stefanova/DJANGO-BLOG-APP)">Certificate</a></td>
+    <td>--</td>
     <td>2023</td>
   </tr>
   <tr>

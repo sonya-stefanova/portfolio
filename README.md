@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Python Web Framework</td>
-        <td><a href="[https://softuni.bg/certificates/certificates/converttoimage/177803?code=7aaf7677](https://github.com/sonya-stefanova/DJANGO-BLOG-APP)">Certificate</a></td>
+        <td><a href="https://softuni.bg/certificates/certificates/converttoimage/177803?code=7aaf7677">Project Link to Github</a></td>
     <td>--</td>
     <td>2023</td>
   </tr>

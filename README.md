@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Python Web Framework</td>
-       [ <td><a href="https://github.com/sonya-stefanova/DJANGO-BLOG-APP">Project Link to Github</a></td>]
+     <td><a href="https://github.com/sonya-stefanova/DJANGO-BLOG-APP">Project Link to Github</a></td>
     <td>--</td>
     <td>2023</td>
   </tr>

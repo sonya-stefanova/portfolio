@@ -43,4 +43,16 @@
     <td>6.00</td>
     <td>2022</td>
   </tr>
+  <tr>
+    <td>HTML & CSS </td>
+     <td><a href="https://softuni.bg/certificates/certificates/converttoimage/200278?code=db26188d">Certificate</a></td>
+    <td>6.00</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>JavaScript </td>
+     <td><a href="https://softuni.bg/certificates/details/199304/64387d92">Certificate</a></td>
+    <td><6.00</td>
+    <td>2023</td>
+  </tr>
 </table>
